@@ -12,3 +12,5 @@ self study
 ammending comments, undoing changes 
 reset reward
 renaming file
+solving conflicts
+rebase

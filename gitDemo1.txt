@@ -1,8 +1,12 @@
 Welcome to GIT...
 
-Chnage1
+Chnage 1
 
-Change2
+Change 2
+
+
+
+
 
 self study
 ammending comments, undoing changes 
